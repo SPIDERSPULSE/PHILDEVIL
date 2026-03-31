@@ -20,7 +20,7 @@ const AboutPage = () => {
   // Education
   const education = {
     degree: 'Bachelor of Science in Software Engineering',
-    institution: 'Dedan Kimathi University of Technology',
+    institution: 'Jomo Kenyatta University of Agriculture And Technology',
     period: '2020 - 2024',
     achievements: ['First Class Honors', 'Deans List 2023', 'Best Final Year Project']
   };
@@ -150,7 +150,7 @@ const AboutPage = () => {
             <div className="bg-white/5 border border-white/10 rounded-2xl p-8 h-full">
               <h2 className="text-2xl font-bold mb-4">Who I Am</h2>
               <p className="text-white/80 leading-relaxed mb-4">
-                I am Phillip — the mind behind PhilDev. I engineer complete digital ecosystems that convert, automate, and dominate markets.
+                I am Phillip — the mind behind PhilDev. I design and develop complete digital ecosystems that convert, automate, and dominate markets.
               </p>
               <p className="text-white/70 leading-relaxed mb-4">
                 Currently working remotely as a Mid-Senior Full-Stack Developer at Emposola LLC, handling development, automation, and technical strategy. Based in Nairobi, Kenya, I serve clients globally with focus on quality and efficiency.
