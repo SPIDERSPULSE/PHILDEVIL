@@ -582,7 +582,7 @@ const Footer = () => {
                   <span>{PHILDEV.timezone} · Remote Worldwide</span>
                 </li>
                 <li>
-                  <a href="mailto:node.netwalker@gmail.com" className="footer-link">
+                  <a href="mailto:philmondkihara.m@gmail.com" className="footer-link">
                     <FaEnvelope style={{ color: '#f59e0b', flexShrink: 0 }} />
                     node.netwalker@gmail.com
                   </a>
