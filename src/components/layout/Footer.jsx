@@ -584,7 +584,7 @@ const Footer = () => {
                 <li>
                   <a href="mailto:philmondkihara.m@gmail.com" className="footer-link">
                     <FaEnvelope style={{ color: '#f59e0b', flexShrink: 0 }} />
-                    node.netwalker@gmail.com
+                    philmondkihara.m@gmail.com
                   </a>
                 </li>
                 <li>
