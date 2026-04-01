@@ -62,7 +62,7 @@ const HireMePopup = () => {
                 <FaEnvelope className="text-gold-500 text-xl" />
                 <div>
                   <p className="text-xs text-white/50">Email</p>
-                  <p className="text-sm font-semibold">node.netwalker@gmail.com</p>
+                  <p className="text-sm font-semibold">philmondkihara.m@gmail.com</p>
                 </div>
               </a>
               
