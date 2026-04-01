@@ -165,7 +165,7 @@ const ContactPage = () => {
               <a href="mailto:node.netwalker@gmail.com" className="bg-white/5 border border-white/10 rounded-2xl p-4 text-center hover:border-amber-500/50 transition group">
                 <FaEnvelope className="text-amber-500 text-3xl mx-auto mb-2 group-hover:scale-110 transition" />
                 <p className="font-semibold">Email</p>
-                <p className="text-xs text-white/40">node.netwalker@gmail.com</p>
+                <p className="text-xs text-white/40">philmondkihara.m@gmail.com</p>
               </a>
               
               <a href="https://calendly.com/phildev" target="_blank" rel="noopener noreferrer" className="bg-white/5 border border-white/10 rounded-2xl p-4 text-center hover:border-cyan-500/50 transition group">
